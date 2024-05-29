@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {'name':'South Sudan Throwdown'},
+      "geometry": {
+        "coordinates": [
+          35.07094687617948,
+          5.872722026161924
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {'name': 'Santo Domingo Fiesta'},
+      "geometry": {
+        "coordinates": [
+          -71.27670937382084,
+          19.222851554418085
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
