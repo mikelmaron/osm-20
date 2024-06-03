@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {'name':'South Sudan Throwdown'},
+      "properties": {"name":"SSD T"},
       "geometry": {
         "coordinates": [
           35.07094687617948,
@@ -14,7 +14,7 @@
     },
     {
       "type": "Feature",
-      "properties": {'name': 'Santo Domingo Fiesta'},
+      "properties": {"name":"SD F"},
       "geometry": {
         "coordinates": [
           -71.27670937382084,
