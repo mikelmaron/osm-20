@@ -3,22 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"name":"<a href='https://google.com/'>SSD</a>"},
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/London/2024_events#Upcoming_Events'>OpenStreetMap Birthday Pub</a><br/>Saturday 10th August from midday onwards, we'll be celebrating the OpenStreetMap 20th Anniversary Birthday party at the Doggetts Coat & Badge pub on the South bank"},
       "geometry": {
         "coordinates": [
-          35.07094687617948,
-          5.872722026161924
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {"name":"SD F"},
-      "geometry": {
-        "coordinates": [
-          -71.27670937382084,
-          19.222851554418085
+          -0.1048,
+          51.5085
         ],
         "type": "Point"
       }
