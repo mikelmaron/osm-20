@@ -11,6 +11,17 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"Santo Domingo OpenStreetMapfiesta de cumpleaños"},
+      "geometry": {
+        "coordinates": [
+          -69.9402,
+          18.4837
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
