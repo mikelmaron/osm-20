@@ -14,7 +14,17 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"Santo Domingo OpenStreetMapfiesta de cumpleaños"},
+      "properties": {"name":"<a target='_blank' href='https://thegeomob.com/post/sept-18th-2024-geomoblon-details'>OpenStreetMap Birthday Geomob</a><br/>On the evening of Wednesday 18th September we'll have very special #geomob event with all OpenStreetMap topics! Tocation tbd"},
+      "geometry": {
+        "coordinates": [
+          -0.07626,51.50825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"Santo Domingo OpenStreetMap fiesta de cumpleaños"},
       "geometry": {
         "coordinates": [
           -69.9402,
