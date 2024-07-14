@@ -3,21 +3,21 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/London/2024_events#Upcoming_Events'>OpenStreetMap Birthday Pub</a><br/>Saturday 10th August from midday onwards, we'll be celebrating the OpenStreetMap 20th Anniversary Birthday party at the Doggetts Coat & Badge pub on the South bank"},
+      "properties": {"name":"<a target='_blank' href='https://thegeomob.com/post/sept-18th-2024-geomoblon-details'>OpenStreetMap Birthday Geomob</a><br/>On the evening of Wednesday 18th September we'll have very special #geomob event with all OpenStreetMap topics! Tocation tbd"},
       "geometry": {
         "coordinates": [
-          -0.1048,
-          51.5085
+          -0.07626,51.50825
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {"name":"<a target='_blank' href='https://thegeomob.com/post/sept-18th-2024-geomoblon-details'>OpenStreetMap Birthday Geomob</a><br/>On the evening of Wednesday 18th September we'll have very special #geomob event with all OpenStreetMap topics! Tocation tbd"},
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/London/2024_events#Upcoming_Events'>OpenStreetMap Birthday Pub</a><br/>Saturday 10th August from midday onwards, we'll be celebrating the OpenStreetMap 20th Anniversary Birthday party at the Doggetts Coat & Badge pub on the South bank"},
       "geometry": {
         "coordinates": [
-          -0.07626,51.50825
+          -0.1048,
+          51.5085
         ],
         "type": "Point"
       }
