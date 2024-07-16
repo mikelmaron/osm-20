@@ -35,11 +35,11 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"Santo Domingo OpenStreetMap fiesta de cumpleaños"},
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Switzerland/The_Swiss_OSM_Jubilee_Tour#OpenStreetMap_20th_Anniversary_Party'>OSM-Stammtisch mit Grillevent zum Abschluss der Swiss OSM Jubilee Tour!</a><br/>So. 11. August 2024, (Time tbd.), Location tbd"},
       "geometry": {
         "coordinates": [
-          -69.9402,
-          18.4837
+          8.2241,
+          46.8224
         ],
         "type": "Point"
       }
