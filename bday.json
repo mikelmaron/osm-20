@@ -3,6 +3,28 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Bengaluru'>India OpenStreetMap Bengaluru Mapping Party</a><br/>August 10. Location tbd"},
+      "geometry": {
+        "coordinates": [
+          77.5900820,
+          12.9767936
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Ramsar_site/Vembanad-Kol_Wetland'>India OpenStreetMap 20th Anniversary Birthday party</a>August 10. Location Public Library, Puzhakkal, Thrissur District</a><br/>Location tbd"},
+      "geometry": {
+        "coordinates": [
+          76.17539,
+          10.55200
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {"name":"<a target='_blank' href='https://peatix.com/event/4054641/view'>祝！OpenStreetMap誕生20周年 夏の会津マッパ＆お祝いパーティー！</a><br/>Sat, 1:00 PM | 福島県会津若松市追手町１−１"},
       "geometry": {
         "coordinates": [
