@@ -3,6 +3,28 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://osmutah.org/2024/07/openstreetmap-turns-20-come-celebrate-with-us/'>OSM Utah 20th Birthday Happy Hour</a><br/>August 9. The Local, Salt Lake City"},
+      "geometry": {
+        "coordinates": [
+          -111.88206,
+          40.76038
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Democratic_Republic_of_the_Congo'>Democratic Republic of the Congo OpenStreetMap 20th Anniversary Party</a><br/>August 9. Location : Orange Digital Center"},
+      "geometry": {
+        "coordinates": [
+          15.30698,
+          -4.33104
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Bengaluru'>India OpenStreetMap Bengaluru Mapping Party</a><br/>August 10. Location tbd"},
       "geometry": {
         "coordinates": [
