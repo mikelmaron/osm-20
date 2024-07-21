@@ -1,6 +1,17 @@
 {
   "type": "FeatureCollection",
-  "features": [
+  "features": [ 
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wikimania.wikimedia.org/wiki/2024:Meetups/Wikimaps_User_Group_meetup_and_OpenStreetMap_birthday_party'>Poland Wikimaps User Group meetup and OpenStreetMap birthday party at Wikimania in Katowice</a><br/>Friday, 9 August 12:15 – 13:15 local time or 10:15 - 11:15 UTC, 60 minutes, room 10 (M)"},
+      "geometry": {
+        "coordinates": [
+          19.0271,
+          50.2657
+        ],
+        "type": "Point"
+      }
+    },
     {
       "type": "Feature",
       "properties": {"name":"<a target='_blank' href='https://osmutah.org/2024/07/openstreetmap-turns-20-come-celebrate-with-us/'>OSM Utah 20th Birthday Happy Hour</a><br/>August 9. The Local, Salt Lake City"},
@@ -14,7 +25,7 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Democratic_Republic_of_the_Congo'>Democratic Republic of the Congo OpenStreetMap 20th Anniversary Party</a><br/>August 9. Location : Orange Digital Center"},
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Democratic_Republic_of_the_Congo/The_DRC_OSM_Mapping#OpenStreetMap_20th_Anniversary_Party'>Democratic Republic of the Congo OpenStreetMap 20th Anniversary Party</a><br/>August 9. Location : Orange Digital Center"},
       "geometry": {
         "coordinates": [
           15.30698,
