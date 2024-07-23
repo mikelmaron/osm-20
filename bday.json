@@ -3,6 +3,28 @@
   "features": [ 
     {
       "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Stuttgart/Stammtisch/Mapping_Events#20_Jahre_OSM_%E2%80%93_St%C3%A4ffele-Mapping_in_Stuttgart'>Stäffele-Mapping in Stuttgart</a><br/>Aus diesem Anlass widmen wir uns der Erfassung der Stuttgarter Stäffele. Sonntag, 11. August 2024, ab 10:00. Innenstadt Stuttgart, tbd"},
+      "geometry": {
+        "coordinates": [
+          9.17731,
+          48.77928
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Grenoble_groupe_local/Agenda#Vendredi_9_ao%C3%BBt_%3A_ap%C3%A9ro_pour_f%C3%AAter_l%27anniversaire_d%27OpenStreetMap'>Vendredi 9 août : apéro pour fêter l'anniversaire d'OpenStreetMap</a><br/>rendez-vous à partir 18h au Gaspard, 2 rue de Lionne à Grenoble"},
+      "geometry": {
+        "coordinates": [
+          5.72968,
+          45.19376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {"name":"<a target='_blank' href='https://wikimania.wikimedia.org/wiki/2024:Meetups/Wikimaps_User_Group_meetup_and_OpenStreetMap_birthday_party'>Poland Wikimaps User Group meetup and OpenStreetMap birthday party at Wikimania in Katowice</a><br/>Friday, 9 August 12:15 – 13:15 local time or 10:15 - 11:15 UTC, 60 minutes, room 10 (M)"},
       "geometry": {
         "coordinates": [
