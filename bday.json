@@ -3,6 +3,18 @@
   "features": [ 
     {
       "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/OpenStreetMap_20th_Anniversary_Birthday_party/Karlsruhe'>OpenStreetMap 20th Anniversary Birthday party/Karlsruhe
+</a><br/>Samstag, 10. August 2024 10:00 bis 18:00 Uhr. Geofabrik, Amalienstraße 44, 76133 Karlsruhe"},
+      "geometry": {
+        "coordinates": [
+          8.39021,
+          49.00961
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Stuttgart/Stammtisch/Mapping_Events#20_Jahre_OSM_%E2%80%93_St%C3%A4ffele-Mapping_in_Stuttgart'>Stäffele-Mapping in Stuttgart</a><br/>Aus diesem Anlass widmen wir uns der Erfassung der Stuttgarter Stäffele. Sonntag, 11. August 2024, ab 10:00. Innenstadt Stuttgart, tbd"},
       "geometry": {
         "coordinates": [
