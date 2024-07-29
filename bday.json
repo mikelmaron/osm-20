@@ -3,6 +3,28 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/OpenStreetMap_20th_Mapping_Competition_POI'>OpenStreetMap 20th Mapping Competition POI</a><br/>Online competition period: 2 - 22 August 2024"},
+      "geometry": {
+        "coordinates": [
+          117.896,
+          -2.496
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://do-na.ir/events/9/'>Iran Dona Celeberating OSM20th - Online event</a><br/>Friday, August 19"},
+      "geometry": {
+        "coordinates": [
+          53.683,
+          32.620
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {"name":"<a target='_blank' href=''> Germany 20th Anniversary Mapping Party des Code for Niederrhein, Moers</a><br/>im Hackerspace des Jugendzentrums Nord in Moers Reepelen. Samstag, 10. August"},
       "geometry": {
         "coordinates": [
