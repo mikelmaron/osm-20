@@ -3,6 +3,17 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://geogeeks.org/2024/0809_osm-birthday.html'>Australia Geogeeks celebrate 20 years of OpenStreetMap</a><br/>09 August 2024 at 5:30PM at The Globe, Perth, Western Australia"},
+      "geometry": {
+        "coordinates": [
+          115.85855,
+          -31.95162
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {"name":"<a target='_blank' href='https://countries-romantic.connpass.com/event/326605/'>OpenStreetMap 20歳の誕生日会！</a><br/>Friday, August 9, 2024, 18:30-22:30"},
       "geometry": {
         "coordinates": [
