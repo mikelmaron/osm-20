@@ -3,6 +3,17 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://www.facebook.com/events/1186593855991914'>Kosovo OpenStreetMap 20th Anniversary Party</a><br/>August 9, Prishtina Hackerspace"},
+      "geometry": {
+        "coordinates": [
+          21.16962,
+          42.65612
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature", Kosovo |  at Prishtina Hackerspace].
       "properties": {"name":"<a target='_blank' href='https://geogeeks.org/2024/0809_osm-birthday.html'>Australia Geogeeks celebrate 20 years of OpenStreetMap</a><br/>09 August 2024 at 5:30PM at The Globe, Perth, Western Australia"},
       "geometry": {
         "coordinates": [
