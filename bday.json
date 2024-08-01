@@ -3,6 +3,17 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://countries-romantic.connpass.com/event/326605/'>OpenStreetMap 20歳の誕生日会！</a><br/>Friday, August 9, 2024, 18:30-22:30"},
+      "geometry": {
+        "coordinates": [
+          135.61526,
+          34.85277
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/OpenStreetMap_20th_Mapping_Competition_POI'>OpenStreetMap 20th Mapping Competition POI</a><br/>Online competition period: 2 - 22 August 2024"},
       "geometry": {
         "coordinates": [
