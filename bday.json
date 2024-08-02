@@ -2,8 +2,43 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",    
+
+
+      "properties": {"name":"<a target='_blank' href=''>Indonesia Welcoming party and celebrate OSM 20th Anniversary</a><br/>August 11, powered by UPI YouthMappers - at Universitas Pendidikan Indonesia, Bandung"},
+      "geometry": {
+        "coordinates": [
+          107.59180,
+          -6.86114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",  
+      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Groupe_local_Rouen#Ao%C3%BBt_2024,_Ap%C3%A9r%E2%80%99O%E2%80%99SM_(ap%C3%A9ro_OSM)_pour_f%C3%AAter_les_20_ans_d'OpenStreetMap.'>apéro pour fêter l'anniversaire d'OpenStreetMap at Rouen</a><br/>August 9"},
+      "geometry": {
+        "coordinates": [
+          1.10111,
+          49.44269
+        ],
+        "type": "Point"
+      }
+    },
+    {
       "type": "Feature",
-      "properties": {"name":"<a target='_blank' href='https://www.facebook.com/events/1186593855991914'>Nigeria OpenStreetMap Birthday Pub</a><br/>August 10, At the Unique Mappers Network Nigeria National Office and Virtually 7PM WAT"},
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3031/'>Tanzania OpenStreetMap 20th Anniversary Birthday Mapping Party </a><br/>August 9, organized by GeoTE-Tanzania in Collaboration with YouthMappers chapter in Tanzania"},
+      "geometry": {
+        "coordinates": [
+          37.62885,
+          -6.79587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3025/'>Nigeria OpenStreetMap Birthday Pub</a><br/>August 10, At the Unique Mappers Network Nigeria National Office and Virtually 7PM WAT"},
       "geometry": {
         "coordinates": [
           6.92194,
