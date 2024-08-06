@@ -3,8 +3,83 @@
   "features": [
     {
       "type": "Feature",    
-
-
+      "properties": {"name":"<a target='_blank' href='https://www.facebook.com/events/1700134707420004/'>OpenStreetMap 20歳のお祝いでOSMケーキ作ります！</a><br/>August 5 at Furuhashi Lab. ANNEX, Yokoze Town, organized by MAPconcierge YouthMappers AGU"},
+      "geometry": {
+        "coordinates": [
+          139.1069,
+          35.98180
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://www.tickettailor.com/events/missingmapslondon/1040085'>Missing Maps London mapathon</a><br/>August 6 organized by Missing Maps London - Online event"},
+      "geometry": {
+        "coordinates": [
+          -0.0882,
+          51.4898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3033/'>GeoBeer at BeeЯ on Centro Comercial Gran Estación en Bogotá</a><br/>August 9"},
+      "geometry": {
+        "coordinates": [
+          -74.10197,
+          4.64782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3034/'>OpenStreetMap 20th Anniversary Celebration</a><br/>August 9 At OpenStreetMap Uganda offices, Plot 351, Kyadondo, Mengo, Kiwatule starting at 8AM EAT"},
+      "geometry": {
+        "coordinates": [
+          32.62377,
+          0.35803
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3038/'>Virtual beer for the 20 years at OSMvideo in LatAm group.</a><br/>August 10"},
+      "geometry": {
+        "coordinates": [
+          -58.36,
+          21.21
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3041/'>Albania OpenStreetMap Online Mapping Party</a><br/>August 10"},
+      "geometry": {
+        "coordinates": [
+          20.462,
+          41.096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href=''>srilanka OpenStreetMap 20th Anniversary Party - Eastern University</a><br/>August 11"},
+      "geometry": {
+        "coordinates": [
+          81.21269,
+          8.65462
+        ],
+        "type": "Point"
+      }
+    }, 
+    {
+      "type": "Feature",    
       "properties": {"name":"<a target='_blank' href=''>Indonesia Welcoming party and celebrate OSM 20th Anniversary</a><br/>August 11, powered by UPI YouthMappers - at Universitas Pendidikan Indonesia, Bandung"},
       "geometry": {
         "coordinates": [
