@@ -3,6 +3,72 @@
   "features": [
     {
       "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://wikimania.wikimedia.org/wiki/2024:Meetups/Wikimaps_User_Group_meetup_and_OpenStreetMap_birthday_party'>OpenStreetMap Training organised by Kathmandu Living Labs</a><br/>August 9 at Nepal Banepa Polytechnic Institute in Nepal"},
+      "geometry": {
+        "coordinates": [
+          85.52310,
+          27.63524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://www.swechaap.org/events/osm20/'>OpenStreetMap 20th Anniversary and Mapping party</a><br/>August 9/10/11 at KL University Vijayawada, Andhra Pradesh, India"},
+      "geometry": {
+        "coordinates": [
+          80.62397,
+          6.44240
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3047/'>OpenStreetMap Turkiye Monthly Mapathon</a><br/>August 9 Online, starting at 8PM (UTC+3)"},
+      "geometry": {
+        "coordinates": [
+          35.192,
+          39.126
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3048/'>OpenStreetMap 20th Anniversary Celebration</a><br/>August 9 at OpenMap Development Tanzania (OMDTZ) office and online"},
+      "geometry": {
+        "coordinates": [
+          39.17863,
+          -6.74180
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://www.meetup.com/openstreetmap-seattle/events/302087988/'>OSM Seattle 20th Anniversary Picnic</a><br/>August 10 at Green Lake Park, Seattle"},
+      "geometry": {
+        "coordinates": [
+          -122.3364,
+          47.6777
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3049/'>20th Anniversary Meetup</a><br/>August 10 at the NextGIS office at 16:00."},
+      "geometry": {
+        "coordinates": [ 
+          37.66199,
+          55.77107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
       "properties": {"name":"<a target='_blank' href='https://www.facebook.com/events/1700134707420004/'>OpenStreetMap 20歳のお祝いでOSMケーキ作ります！</a><br/>August 5 at Furuhashi Lab. ANNEX, Yokoze Town, organized by MAPconcierge YouthMappers AGU"},
       "geometry": {
         "coordinates": [
@@ -278,7 +344,7 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"<a target='_blank' href='https://wiki.openstreetmap.org/wiki/Ramsar_site/Vembanad-Kol_Wetland'>India OpenStreetMap 20th Anniversary Birthday party</a>August 10. Location Public Library, Puzhakkal, Thrissur District</a><br/>Location tbd"},
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3043/'>India OpenStreetMap 20th Anniversary Birthday party</a>August 10. Location Public Library, Puzhakkal, Thrissur District</a><br/>Location tbd"},
       "geometry": {
         "coordinates": [
           76.17539,
