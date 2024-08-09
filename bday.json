@@ -14,7 +14,7 @@
     },
     {
       "type": "Feature",    
-      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3058/'>20 years with OSM</a><br/>August 10. "Ardagani" Restaurant on Pirosmani at 18 local time"},
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3058/'>20 years with OSM</a><br/>August 10. Ardagani Restaurant on Pirosmani at 18 local time"},
       "geometry": {
         "coordinates": [
           41.61901,
