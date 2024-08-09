@@ -3,6 +3,28 @@
   "features": [
     {
       "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://www.instagram.com/p/C-XZoRCPlLx/'>OSM Day Celebration and Open Tech Meetup</a><br/>August 9.  organized by Kathmandu University Open Source Community at Kathmandu University in Nepal"},
+      "geometry": {
+        "coordinates": [
+          85.53735,
+          27.61870
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
+      "properties": {"name":"<a target='_blank' href='https://osmcal.org/event/3058/'>20 years with OSM</a><br/>August 10. "Ardagani" Restaurant on Pirosmani at 18 local time"},
+      "geometry": {
+        "coordinates": [
+          41.61901,
+          41.64161
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",    
       "properties": {"name":"<a target='_blank' href='https://wikimania.wikimedia.org/wiki/2024:Meetups/Wikimaps_User_Group_meetup_and_OpenStreetMap_birthday_party'>OpenStreetMap Training organised by Kathmandu Living Labs</a><br/>August 9 at Nepal Banepa Polytechnic Institute in Nepal"},
       "geometry": {
         "coordinates": [
